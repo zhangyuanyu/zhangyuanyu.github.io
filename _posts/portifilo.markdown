@@ -12,7 +12,7 @@ tags:
 ---
 
 <div>
-    <br><img src="/img/portfolio-img/1.jpg"/>
+    <br><img src="/img/1.jpg"/>
 	<br><img src="/img/2.jpg"/>
 	<br><img src="/img/3.jpg"/>
 	<br><img src="/img/4.jpg"/>
