@@ -12,7 +12,7 @@ tags:
 ---
 
 <div>
-    <br><img src="/img/1.jpg"width="4000"/>
+    <br><img src="/img/1.jpg" width="1700" heigt="720"/>
 	<br><img src="/img/2.jpg"/>
 	<br><img src="/img/3.jpg"/>
 	<br><img src="/img/4.jpg"/>
