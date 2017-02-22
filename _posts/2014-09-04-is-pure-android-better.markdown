@@ -13,7 +13,7 @@ tags:
 
 <div>
     <br><img src="/img/1.jpg"/>
-	<br><img src="/img/2.jpg"/>
+	<br><img src="/img/2.jpg"width="1280" height="720"/>
 	<br><img src="/img/3.jpg"/>
 	<br><img src="/img/4.jpg"/>
 	<br><img src="/img/5.jpg"/>
