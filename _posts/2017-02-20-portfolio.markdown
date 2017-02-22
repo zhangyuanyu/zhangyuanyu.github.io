@@ -11,7 +11,6 @@ tags:
     - 交互设计
 ---
 
-<div>
     <br><img src="/img/1.jpg" width="1700" heigt="720"/>
 	<br><img src="/img/2.jpg"/>
 	<br><img src="/img/3.jpg"/>
@@ -38,4 +37,3 @@ tags:
 	<br><img src="/img/24.jpg"/>
 	<br><img src="/img/25.jpg"/>
 	
-</div>
