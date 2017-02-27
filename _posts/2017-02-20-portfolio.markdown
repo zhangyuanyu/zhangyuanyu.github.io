@@ -10,7 +10,8 @@ tags:
     - 2016
     - 交互设计
 ---
-作品集下载链接: http://pan.baidu.com/s/1dFxJ02H 密码: awyu
+作品集下载链接: http://pan.baidu.com/s/1dFxJ02H  
+密码: awyu
 
     <br><img src="/img/1.jpg" width="1700" heigt="720"/>
 	<br><img src="/img/2.jpg"/>
